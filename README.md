@@ -1,2 +1,2 @@
-# hello-word
-soy un estudiande de Argentina, de la Facultad de UTN  regional Mendoza.
+# hello-wordesta 
+este es un mensaje de prueba de edicion del main en git. 
